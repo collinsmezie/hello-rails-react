@@ -19,7 +19,7 @@ default: &default
   database: rails_react_app
   pool: 5
   username: postgres
-  password: seeyouathome
+  password: recipe
   host: localhost
   encoding: unicode
   # For details on connection pooling, see Rails configuration guide
@@ -32,7 +32,7 @@ development:
   database: rails_react_app
   pool: 5
   username: postgres
-  password: seeyouathome
+  password: recipe
   host: localhost
   encoding: unicode
 
